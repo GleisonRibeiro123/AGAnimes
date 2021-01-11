@@ -1,1 +1,1 @@
-"# AGAnimes" 
+# AGAnimes
