@@ -1,0 +1,6 @@
+C:\Users\gsribeiro\source\repos\GA-Animes\Domain\bin\Debug\Domain.dll
+C:\Users\gsribeiro\source\repos\GA-Animes\Domain\bin\Debug\Domain.pdb
+C:\Users\gsribeiro\source\repos\GA-Animes\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\gsribeiro\source\repos\GA-Animes\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\gsribeiro\source\repos\GA-Animes\Domain\obj\Debug\Domain.dll
+C:\Users\gsribeiro\source\repos\GA-Animes\Domain\obj\Debug\Domain.pdb

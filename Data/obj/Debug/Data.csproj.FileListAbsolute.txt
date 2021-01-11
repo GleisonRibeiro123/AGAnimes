@@ -1,0 +1,14 @@
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\bin\Debug\Data.dll
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\bin\Debug\Data.pdb
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\bin\Debug\Domain.dll
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\bin\Debug\MediatR.dll
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\bin\Debug\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\bin\Debug\Domain.pdb
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\bin\Debug\MediatR.xml
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\obj\Debug\Data.dll
+C:\Users\gsribeiro\source\repos\GA-Animes\Data\obj\Debug\Data.pdb
