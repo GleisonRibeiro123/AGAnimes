@@ -1,22 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\GA-Animes\\GA-Animes.csproj": {}
+    "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\GA-Animes\\GA-Animes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Application\\Application.csproj": {
+    "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Application\\Application.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Application\\Application.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Data\\Data.csproj"
+              "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Data\\Data.csproj"
               },
-              "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Domain\\Domain.csproj"
+              "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Domain\\Domain.csproj"
               }
             }
           }
@@ -26,16 +26,16 @@
         "net472": {}
       }
     },
-    "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Data\\Data.csproj": {
+    "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Data\\Data.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Data\\Data.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Domain\\Domain.csproj"
+              "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Domain\\Domain.csproj"
               }
             }
           }
@@ -45,27 +45,30 @@
         "net472": {}
       }
     },
-    "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Domain\\Domain.csproj": {
+    "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Domain\\Domain.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Domain\\Domain.csproj"
+        "projectPath": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Domain\\Domain.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\GA-Animes\\GA-Animes.csproj": {
+    "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\GA-Animes\\GA-Animes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\GA-Animes\\GA-Animes.csproj",
+        "projectUniqueName": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\GA-Animes\\GA-Animes.csproj",
         "projectName": "GA-Animes",
-        "projectPath": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\GA-Animes\\GA-Animes.csproj",
-        "packagesPath": "C:\\Users\\gsribeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\GA-Animes\\obj\\",
+        "projectPath": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\GA-Animes\\GA-Animes.csproj",
+        "packagesPath": "C:\\Users\\aoneto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\GA-Animes\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\gsribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aoneto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,11 +81,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Application\\Application.csproj"
+              "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Application\\Application.csproj"
               },
-              "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\gsribeiro\\source\\repos\\GA-Animes\\Domain\\Domain.csproj"
+              "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\aoneto\\source\\repos\\AGAnimes\\Domain\\Domain.csproj"
               }
             }
           }
