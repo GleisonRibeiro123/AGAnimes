@@ -8,7 +8,7 @@ namespace Domain.Models
 {
     public class Anime
     {
-        public Anime(string nome)
+        public Anime(string nome)    
         {
             this.Nome = nome;
         }
